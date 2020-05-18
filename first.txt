@@ -3,5 +3,8 @@ gitの練習をしていきます
 ・git add
 ・git commit
 ・git status
-・git status
 
+
+コミットまでの方法
+・編集ファイルを保存したら、git add ファイル名　で　ステージングエリアへファイルを移動させる
+・続いて git commit -v でリモートリポジトリにメッセージをつけて保存する。
